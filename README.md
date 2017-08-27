@@ -26,152 +26,152 @@ List of dependencies
 ----------
 
  - A101_assembled_stair.fcstd
-	    - A712_fridge_box.fcstd
-	    - step.fcstd
-	    - plate.fcstd
-	    - beam.fcstd
-	    - railing_element.fcstd
-	    - beam_plate.fcstd
-	    - railing_last_element.fcstd
-	    - railing_last_plate.fcstd
-	    - railing_first_element.fcstd
-	    - beam_ground_plate.fcstd
+	-  A712_fridge_box.fcstd
+	-  step.fcstd
+	-  plate.fcstd
+	-  beam.fcstd
+	-  railing_element.fcstd
+	-  beam_plate.fcstd
+	-  railing_last_element.fcstd
+	-  railing_last_plate.fcstd
+	-  railing_first_element.fcstd
+	-  beam_ground_plate.fcstd
  - A711_fridge_box_panels.fcstd
-		- stair_profile.fcstd
-		- step.fcstd
-		- double_beam.fcstd
-		- fridge_box_door.fcstd
+	-  stair_profile.fcstd
+	-  step.fcstd
+	-  double_beam.fcstd
+	-  fridge_box_door.fcstd
  - A712_fridge_box.fcstd
-		- fridge_box_door.fcstd
-		- A711_fridge_box_panels.fcstd
-		- fridge_box_door.fcstd
+	-  fridge_box_door.fcstd
+	-  A711_fridge_box_panels.fcstd
+	-  fridge_box_door.fcstd
  - A721_double_beam.fcstd
-		- beam.fcstd
-		- A711_fridge_box_panels.fcstd
-		- stair_profile.fcstd
-		- step.fcstd
-		- beam_plate.fcstd
-		- fridge_box_door.fcstd
-		- railing_plate.fcstd
-		- plate.fcstd
+	-  beam.fcstd
+	-  A711_fridge_box_panels.fcstd
+	-  stair_profile.fcstd
+	-  step.fcstd
+	-  beam_plate.fcstd
+	-  fridge_box_door.fcstd
+	-  railing_plate.fcstd
+	-  plate.fcstd
  - all.fcstd
-		- double_beam.fcstd
-		- fasteners.fcstd
-		- railing_plate.fcstd
-		- railing_dist.fcstd
-		- railing_eyelet.fcstd
-		- railing_fasteners.fcstd
-		- ropes.fcstd
-		- step.fcstd
-		- handrail_holder.fcstd
-		- handrail.fcstd
-		- railing_wood.fcstd
-		- A711_fridge_box_panels.fcstd
-		- fridge_box_door.fcstd
-		- handrail_holder.fcstd
-		- railing_eyelet.fcstd
-		- railing_last_wood.fcstd
-		- stair_profile.fcstd
-		- room.fcstd
-		- plate.fcstd
-		- railing_last_steel.fcstd
-		- railing_plate.fcstd
-		- railing_dist.fcstd
-		- railing_eyelet.fcstd
-		- railing_fasteners.fcstd
-		- handrail_holder.fcstd
-		- railing_wood.fcstd
-		- handrail.fcstd
+	-  double_beam.fcstd
+	-  fasteners.fcstd
+	-  railing_plate.fcstd
+	-  railing_dist.fcstd
+	-  railing_eyelet.fcstd
+	-  railing_fasteners.fcstd
+	-  ropes.fcstd
+	-  step.fcstd
+	-  handrail_holder.fcstd
+	-  handrail.fcstd
+	-  railing_wood.fcstd
+	-  A711_fridge_box_panels.fcstd
+	-  fridge_box_door.fcstd
+	-  handrail_holder.fcstd
+	-  railing_eyelet.fcstd
+	-  railing_last_wood.fcstd
+	-  stair_profile.fcstd
+	-  room.fcstd
+	-  plate.fcstd
+	-  railing_last_steel.fcstd
+	-  railing_plate.fcstd
+	-  railing_dist.fcstd
+	-  railing_eyelet.fcstd
+	-  railing_fasteners.fcstd
+	-  handrail_holder.fcstd
+	-  railing_wood.fcstd
+	-  handrail.fcstd
  - beam.fcstd
-		- stair_profile.fcstd
-		- step.fcstd
+	-  stair_profile.fcstd
+	-  step.fcstd
  - beam_ground_plate.fcstd
  - beam_plate.fcstd
-		- A711_fridge_box_panels.fcstd
-		- step.fcstd
-		- stair_profile.fcstd
-		- double_beam.fcstd
+	-  A711_fridge_box_panels.fcstd
+	-  step.fcstd
+	-  stair_profile.fcstd
+	-  double_beam.fcstd
  - double_beam.fcstd
-		- beam.fcstd
-		- A711_fridge_box_panels.fcstd
-		- stair_profile.fcstd
-		- step.fcstd
-		- beam_plate.fcstd
-		- fridge_box_door.fcstd
-		- railing_plate.fcstd
-		- plate.fcstd
+	-  beam.fcstd
+	-  A711_fridge_box_panels.fcstd
+	-  stair_profile.fcstd
+	-  step.fcstd
+	-  beam_plate.fcstd
+	-  fridge_box_door.fcstd
+	-  railing_plate.fcstd
+	-  plate.fcstd
  - fasteners.fcstd
-		- double_beam.fcstd
-		- railing_plate.fcstd
+	-  double_beam.fcstd
+	-  railing_plate.fcstd
  - fridge_box_door.fcstd
  - handrail.fcstd
  - handrail_holder.fcstd
-		- railing_eyelet.fcstd
+	-  railing_eyelet.fcstd
  - loft_handrail.fcstd
  - loft_handrail_holder.fcstd
  - loft_railing_element.fcstd
-		- room.fcstd
+	-  room.fcstd
  - loft_railing.fcstd
-		- handrail.fcstd
-		- A711_fridge_box_panels.fcstd
-		- fridge_box_door.fcstd
-		- handrail_holder.fcstd
-		- railing_eyelet.fcstd
-		- railing_last_wood.fcstd
-		- room.fcstd
-		- railing_last_steel.fcstd
-		- loft_railing_element.fcstd
-		- loft_ropes.fcstd
-		- railing_element.fcstd
-		- ropes.fcstd
-		- railing_last.fcstd
+	-  handrail.fcstd
+	-  A711_fridge_box_panels.fcstd
+	-  fridge_box_door.fcstd
+	-  handrail_holder.fcstd
+	-  railing_eyelet.fcstd
+	-  railing_last_wood.fcstd
+	-  room.fcstd
+	-  railing_last_steel.fcstd
+	-  loft_railing_element.fcstd
+	-  loft_ropes.fcstd
+	-  railing_element.fcstd
+	-  ropes.fcstd
+	-  railing_last.fcstd
  - loft_ropes.fcstd
  - plate.fcstd
-		- step.fcstd
+	-  step.fcstd
  - railing_dist.fcstd
-		- railing_eyelet.fcstd
+	-  railing_eyelet.fcstd
  - railing_element.fcstd
-		- double_beam.fcstd
-		- fasteners.fcstd
-		- railing_plate.fcstd
-		- railing_dist.fcstd
-		- railing_eyelet.fcstd
-		- railing_fasteners.fcstd
-		- ropes.fcstd
-		- step.fcstd
-		- handrail_holder.fcstd
-		- handrail.fcstd
-		- railing_wood.fcstd
-		- A711_fridge_box_panels.fcstd
-		- fridge_box_door.fcstd
-		- handrail_holder.fcstd
-		- railing_eyelet.fcstd
-		- railing_last_wood.fcstd
-		- stair_profile.fcstd
-		- room.fcstd
-		- plate.fcstd
-		- room.fcstd
-		- railing_last_steel.fcstd
+	-  double_beam.fcstd
+	-  fasteners.fcstd
+	-  railing_plate.fcstd
+	-  railing_dist.fcstd
+	-  railing_eyelet.fcstd
+	-  railing_fasteners.fcstd
+	-  ropes.fcstd
+	-  step.fcstd
+	-  handrail_holder.fcstd
+	-  handrail.fcstd
+	-  railing_wood.fcstd
+	-  A711_fridge_box_panels.fcstd
+	-  fridge_box_door.fcstd
+	-  handrail_holder.fcstd
+	-  railing_eyelet.fcstd
+	-  railing_last_wood.fcstd
+	-  stair_profile.fcstd
+	-  room.fcstd
+	-  plate.fcstd
+	-  room.fcstd
+	-  railing_last_steel.fcstd
  - railing_eyelet.fcstd
  - railing_fasteners.fcstd
  - railing_last.fcstd
-		- handrail_holder.fcstd
-		- railing_eyelet.fcstd
-		- railing_last_wood.fcstd
-		- railing_last_steel.fcstd
+	-  handrail_holder.fcstd
+	-  railing_eyelet.fcstd
+	-  railing_last_wood.fcstd
+	-  railing_last_steel.fcstd
  - railing_last_steel.fcstd
-		- railing_eyelet.fcstd
-		- room.fcstd
-		- loft_railing_element.fcstd
+	-  railing_eyelet.fcstd
+	-  room.fcstd
+	-  loft_railing_element.fcstd
  - railing_last_wood.fcstd
-		- double_beam.fcstd
-		- railing_last_steel.fcstd
+	-  double_beam.fcstd
+	-  railing_last_steel.fcstd
  - railing_plate.fcstd
-		- double_beam.fcstd
+	-  double_beam.fcstd
  - railing_wood.fcstd
  - room.fcstd
  - ropes.fcstd
-		- railing_eyelet.fcstd
+	-  railing_eyelet.fcstd
  - stair_profile.fcstd
  - step.fcstd
-		- stair_profile.fcstd
+	-  stair_profile.fcstd
