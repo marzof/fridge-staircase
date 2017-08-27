@@ -26,7 +26,7 @@ List of dependencies
 ----------
 
  - A101_assembled_stair.fcstd
- ..* A712_fridge_box.fcstd
+   - A712_fridge_box.fcstd
  - 	step.fcstd
  - 	plate.fcstd
  - 	beam.fcstd
