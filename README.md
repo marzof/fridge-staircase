@@ -14,13 +14,13 @@ Because of that we decided, for the A731... to compose the layout drawings into 
 
 The workflow was:
 
- - model simple parts of the object in FreeCAD
- - render the drawing of the parts in TechDraw workbench. Here we set the point of view, the scale of the drawing, the width and the type of lines.
- - export the drawing in SVG (the dxf exporter doesn't seem to work very well)
- - convert the svg drawing in a series of dxf files using the fc2dxf script: at the end you'll get a file for every style of line (visible, hidden, thick, thin...)
- - compose the board in a CAD software: add the title block, the dimensions, the annotations, etc...
+1. model simple parts of the object in FreeCAD
+2. render the drawing of the parts in TechDraw workbench. Here we set the point of view, the scale of the drawing, the width and the type of lines.
+3. export the drawing in SVG (the dxf exporter doesn't seem to work very well)
+4. convert the svg drawing in a series of dxf files using the fc2dxf script: at the end you'll get a file for every style of line (visible, hidden, thick, thin...)
+5. compose the board in a CAD software: add the title block, the dimensions, the annotations, etc...
 
-You can find more pictures and infos at www
+You can find more pictures and infos at [link to address]
 
 List of dependencies
 ----------
