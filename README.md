@@ -17,7 +17,7 @@ The workflow was:
 1. model simple parts of the object in FreeCAD
 2. render the drawing of the parts in TechDraw workbench. Here we set the point of view, the scale of the drawing, the width and the type of lines.
 3. export the drawing in SVG (the dxf exporter doesn't seem to work very well)
-4. convert the svg drawing in a series of dxf files using the fc2dxf script: at the end you'll get a file for every style of line (visible, hidden, thick, thin...)
+4. convert the svg drawing in a series of dxf files using the [fc2dxf script] (https://github.com/marzof/scripts/blob/master/fc2dxf.py): at the end you'll get a file for every style of line (visible, hidden, thick, thin...)
 5. compose the board in a CAD software: add the title block, the dimensions, the annotations, etc...
 
 You can find more pictures and infos at [link to address]
