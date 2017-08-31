@@ -18,7 +18,7 @@ The workflow was:
 4. convert the svg drawing in a series of dxf files using the [fc2dxf script](https://github.com/marzof/scripts/blob/master/fc2dxf.py): at the end you'll get a file for every style of line (visible, hidden, thick, thin...)
 5. compose the board in a CAD software: add the title block, the dimensions, the annotations, etc...
 
-You can find more pictures and infos at [link to address]
+You can find more pictures and infos [here](http://softwareliberoperlarchitettura.mfarchitetti.it/en_US/2017/08/31/progetto-per-una-scala-un-test-riuscito-per-un-software-open-source-per-la-progettazione-parametrica-freecad/)
 
 List of dependencies
 ----------
